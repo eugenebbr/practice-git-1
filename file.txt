@@ -1,2 +1,5 @@
 My first line in project
 Paris is the capital of France
+Madrid is the capital of Spain
+Budapest is the capital of Hungary
+Rome is the capital of Italy
